@@ -1,0 +1,32 @@
+body {
+    margin : 0;
+    padding: 0;
+}
+
+.center-img {
+    background-image: url('https://blog.krafton.com/wp-content/uploads/2023/02/%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C_1_%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EB%B9%84%EC%BC%84%EB%94%94-%EB%A7%B5-%EA%B3%B0-%EC%B6%94%EA%B0%80.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.center-style {
+    color: white;
+}
+
+.button-style {
+    color:white
+}
+
+.input-style {
+    width: 300px; 
+    padding: 10px; 
+    font-size: 16px; 
+}
+
+button {
+    width: 150px; /* 원하는 너비로 조절 */
+    padding: 10px; /* 내부 여백 조절 */
+    font-size: 16px; /* 글꼴 크기 조절 */
+}
